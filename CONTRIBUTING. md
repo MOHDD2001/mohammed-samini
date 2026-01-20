@@ -1,0 +1,30 @@
+# Contributing Guidelines
+
+Thank you for considering contributing to this project!
+
+## How to Contribute
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+## Code Standards
+
+- Write clean, readable code
+- Add comments for complex logic
+- Follow existing code style
+- Test your changes
+
+## Commit Messages
+
+Use clear, descriptive commit messages:
+- `feat:` - New feature
+- `fix:` - Bug fix
+- `docs:` - Documentation changes
+- `style:` - Code formatting
+- `refactor:` - Code restructuring
+
+## Questions?
+
+Open an issue or contact me directly.
