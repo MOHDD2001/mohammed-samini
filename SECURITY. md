@@ -1,0 +1,25 @@
+# Security Policy
+
+## Reporting a Vulnerability
+
+If you discover a security vulnerability, please:
+
+1. **Email**: your.email@example.com
+2. **Include**:
+   - Vulnerability description
+   - Steps to reproduce
+   - Potential impact
+
+## Response Time
+
+- Initial response: 48 hours
+- Fix timeline: 7-14 days for critical issues
+
+## Security Measures
+
+- ✅ Input validation
+- ✅ Password hashing
+- ✅ JWT authentication
+- ✅ CORS protection
+- ✅ Rate limiting
+- ✅ SQL injection prevention
