@@ -1,0 +1,22 @@
+{
+  "name": "mohammed-samini",
+  "version": "1.0.0",
+  "description": "Full Stack Developer Portfolio",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev"
+  },
+  "keywords": [
+    "fullstack",
+    "portfolio",
+    "react",
+    "nodejs"
+  ],
+  "author": "Mohammed Samini",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MOHDD2001/mohammed-samini.git"
+  }
+}
